@@ -1,4 +1,4 @@
-re "net/http"
+require "net/http"
 require "uri"
 
 wpdir = "/srv/www/wordpress/current"
